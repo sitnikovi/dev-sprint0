@@ -13,7 +13,13 @@ Explain what each of the following lines does. Use the terminology you learned f
 
 Answer:
 
+1st line - imports TurtleWorld module into Python
 
+2nd line - assigns TurtleWorld function to a variable world
+
+3rd line - assigns Turtle function to a variable bob
+
+4th line - calls wait_for_user function
 
 
 
